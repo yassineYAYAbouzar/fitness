@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">fitness courses</string>
+    <string name="home">الرءيسة</string>
+    <string name="task">تمارين</string>
+    <string name="calculator">الحسابة</string>
+    <string name="setting">اعدادات</string>
+    <string name="start">بدا</string>
+    <string name="favourite">مفضلة</string>
+    <string name="instruction">تمارين</string>
+    <string name="your_weight">العرض</string>
+    <string name="your_Height">الطول</string>
+    <string name="Inches">بوصة</string>
+    <string name="Feet">قدم</string>
+    <string name="Calculate">احسب</string>
+
+
+    <string name="ADMOB_Unit_ID" translatable="false">ca-app-pub-1091943052558531~4807302413</string>
+    <string name="google_baner">ca-app-pub-1091943052558531/5377329819</string>
+    <string name="g_inr">ca-app-pub-1091943052558531/4891595723</string>
+    <string name="g_native">ca-app-pub-1091943052558531/5756603761</string>
+    <string name="numberzero">0</string>
+    <string name="privecy">الخصوصية</string>
+    <string name="rateapp">تقييم</string>
+    <string name="numberone">0</string>
+
+
+</resources>

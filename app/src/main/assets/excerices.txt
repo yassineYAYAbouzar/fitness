@@ -1,0 +1,152 @@
+{
+	"steps":[
+		{
+			"excerise_name":"Incline Bench Sit-Ups",
+			"instruction":"Lie Back On the Decline bench. Position hands Overhead && Step2 Raise Your Upper Body Upward While Keeping Your Lower Back On the Bench. Hold For one second . Return To Starting Position",
+			"image":"abs/ab",
+			"id":"1"
+		},
+		{
+			"excerise_name":"Hanging Leg Raises",
+			"instruction":"While Holding Onto A Chin-up Bar Raising An Overhand Grip, Hang With Your Knees Bent Slighty",
+			"image":"abs/abc2",
+			"id":"2"
+		},
+		{
+			"excerise_name":"Dumbbell Side Bends",
+			"instruction":"step1: Stand Straight with feet shoulder width apart. Hold a Dumbbell In each Hand. && Step2: Bend Downwards In One Direction, With Minimum Movement To Your Lower Body.",
+			"image":"abs/abc3",
+			"id":"3"
+		},
+		{
+
+			"excerise_name":"Crunches",
+			"instruction":"While lyinig on Your Back, Straighten Your Legs, Raise Your Heels An Inch Off The Floor, and Place Your Hands By Your Sides",
+			"image":"abs/abc4",
+			"id":"4"
+		},
+		{
+        	"excerise_name":"Chin-Ups",
+        	"instruction":"Choode a Suitable Weight Then Kneel Dr. Stand On The Platform and Grip The Handles Keep You abdominals and lower back Muscles Strong and Slowly Extend Your Arms Until They Are Dully Stretched Make Sure Thet Your Keep",
+        	"image":"back/back1",
+        	"id":"5"
+        },
+		{
+			"excerise_name":"lat Pull Downs",
+			"instruction":"Sitting On a bench Grap a Bar With a Flase Overhand Thumb On The Same side as Your Fingers Shoulder-width Grip",
+			"image":"back/back2",
+			"id":"6"
+		},
+		{
+			"excerise_name":"One Arm Dumbbell Rows",
+			"instruction":"Use Your Non-Dominant Hnad To hold Dumbbell while Placing Your Dominat Hand And Knee On a Bench AS Illustrated",
+			"image":"back/back3",
+			"id":"7"
+		},
+		{
+			"excerise_name":"Barbell Shrugs",
+			"instruction":"Stand Upright And Hold Two Fairly heavy barbell at your Sides With Your Plams Facing Each Other(Neutral-grip)",
+			"image":"back/back4",
+			"id":"8"
+		},
+		{
+        	"excerise_name":"Cable Biceps Curl",
+        	"instruction":"Curl The Bar Toward Your Chest As Far As You Can Without Allowing Your Upper To Move && Step3: Pause Then Slowly Return To The Starting Position",
+        	"image":"bic/bic1",
+        	"id":"9"
+        },
+		{
+			"excerise_name":"low Pulley Curls",
+			"instruction":"Adjust Pulley To The Lowest Position . While Standing Dce The Pulley Hold Handle With Underhand Grip && Step2: Lift Hnadle With Your Wrist Hold For One Second Return To Starting Position",
+			"image":"bic/bic2",
+			"id":"10"
+		},
+        {
+        	"excerise_name":"Dumbbell Hammer Grip Standing",
+        	"instruction":"While Standing With Back Straight Hold Dumbbels In Front Of Your Thighs With Overhand Grip Keep arms Straight",
+        	"image":"bic/bic3",
+        	"id":"11"
+        },
+        {
+            "excerise_name":"dumbbell Biceps Curl Seated",
+            "instruction":"sit upright with the legs crossed, then raise your arms above your head and face your palms towards each other, close your eyes and breathe deeply.",
+            "image":"bic/bic4",
+            "id":"12"
+        },
+        {
+    		"excerise_name":"Bench Presses",
+    		"instruction":"sit upright with the legs crossed, rest your hands on your knees or lap, keep your spine straight, close your eyes and breathe deeply.",
+    		"image":"ches/ches1",
+    		"id":"13"
+    	},
+    	{
+    		"excerise_name":"Dumbbell Presses",
+    		"instruction":"Place your left hand on the floor, raise your right arm above your head, then bend to the left. hold the pose and breathe slowly and deeply.",
+    		"image":"ches/ches2",
+    		"id":"14"
+    	},
+    	{
+    		"excerise_name":"Cable Crossover Flys1",
+    		"instruction":"Place your right hand on the floor, raise your left arm above your head, then bend to the right. hold the pose and breathe slowly and deeply.",
+    		"image":"ches/ches3",
+    		"id":"15"
+    	},
+    	{
+
+    		"excerise_name":"Push Ups1",
+    		"instruction":"if balance is difficult, try practicing the pose with your back against a wall, breathe slowly and deeply.",
+    		"image":"ches/ches4",
+    		"id":"16"
+    	},
+    	{
+            "excerise_name":"Back Presses",
+            "instruction":"Start By Sitting On The Bench With Back Support Grasp The Barbell Using an Overhand Grip Hold The Dumbblls && Step2: Push The Barbell Up and Overhead So That The Arms are fully Extended",
+            "image":"chol/shol1",
+            "id":"17"
+        },
+    	{
+    	    "excerise_name":"Seate Dumbbell Preseses",
+    		"instruction":"Position Yourself On a Bench Or Chair With Your Back Upright and Straight. Grasp a Dumbbell In each Hand && Step2: Simply press The dumbbels Up Over Hand and return to The Start Position ",
+    		"image":"chol/chol2",
+    		"id":"18"
+    	},
+    	{
+    		"excerise_name":"Upright Rows",
+    		"instruction":"Step1: Raise The Bar Toward Your Chin By Leaiding with Your Elbows . When Your Upper arms are parllel to the floor stop the pull  && step2 at the Lop Of Your Range Of Motion Your Elbows Should be higher than Your Wrists:",
+    		"image":"chol/chol3",
+    		"id":"19"
+    	},
+    	{
+    		"excerise_name":"Barbell Front Raise",
+    		"instruction":"Stand with Your Legs Slightly Spread Take and Overhand Grip On Barbell and rest the barbell on your thighs",
+    		"image":"chol/chol4",
+    		"id":"20"
+    	},
+    	{
+            "excerise_name":"leg Extensions",
+            "instruction":"Step1 : Slowly Raise The Weight By Extending Both Legs Upwards To The Straightened Position && Step2 : Do Not Jerk The Weight Up . Hold This Position For One Second . Slowly Lower tHE Weight Back To The Start Position",
+            "image":"legs/legs1",
+            "id":"21"
+        },
+    	{
+    		"excerise_name":"Dumbbell lunges",
+    		"instruction":"Step1: Stand With Dumbbells Grasped To Sides. Lunge Forward With First Leg . Land On Heel Then ForeFoot. && Step2: Return To Original Standing Position By Forcibly Extending Hip and Knee Of Forward leg.",
+    		"image":"legs/legs2",
+    		"id":"22"
+    	},
+        {
+            "excerise_name":"Hack Squats",
+            "instruction":"Flex Your Knees Place Your Back Against The padded Surface, Wedge Your Shoulders Beat The Yokes Attached To The Machine && Step2: Return To The Starting Position Exhanling as You Complete The Movement",
+            "image":"legs/legs3",
+            "id":"23"
+        },
+        {
+             "excerise_name":"Seated leg Curls",
+             "instruction":"sit On The Machine With Your Legs Straight ankles Resting On The Roller pad . Lower The Leg Rasting Over Your Thighs To Secure Them && Step2 : Grasp the Handles Provided On each Side: Inhale and Bend Your Knees To Move The Roller Pad Downward .",
+             "image":"legs/legs4",
+             "id":"24"
+        }
+
+
+	]
+}
